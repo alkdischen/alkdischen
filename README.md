@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 Hello, I’m **Alkdis Chen**.
 
-- Currently an undergraduate in Electronical Engineering at Shanghai Jiaotong University.
+- Currently an undergraduate in Electrical Engineering at Shanghai Jiaotong University.
 - <a href ="http://www.alkdischen.club/">Blog (in Chinese)</a>
 - More familiar with Python. 
 - AI builder, Computer Vision researcher and Communication System designer.

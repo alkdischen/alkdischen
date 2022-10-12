@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Hello, I’m **Alkdis Chen**.
-
+<!--
 - Currently an undergraduate in Electrical Engineering at Shanghai Jiaotong University.
 
-<!--
+
 - <a href ="http://www.alkdischen.club/">Blog (in Chinese)</a>
 - More familiar with Python. 
 - AI builder, Computer Vision researcher and Communication System designer.

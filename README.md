@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 Hello, I’m **Alkdis Chen**.
 - Currently an undergraduate in Electrical Engineering at Shanghai Jiaotong University.
-- <a href ="http://www.alkdischen.club/">Blog (in Chinese)</a>
+- <a href ="http://www.alkdischen.cn/">Tech Blog</a>
 - More familiar with Python. 
 - Nice to meet u here!
 <!--
